@@ -45,10 +45,10 @@ Atom3d: `https://github.com/drorlab/atom3d`
 
 
 ## Models
-`models/tr_spe`: 3D-Transformer with Sinusoidal Position Encoding (SPE)
-`models/tr_cpe`: 3D-Transformer with Convolutional Position Encoding (CPE)  
-`models/tr_msa`: 3D-Transformer with Multi-scale Self-attention (MSA)  
-`models/tr_afps`: 3D-Transformer with Attentive Farthest Point Sampling (AFPS)  
+`models/tr_spe`: 3D-Transformer with Sinusoidal Position Encoding (SPE)  
+`models/tr_cpe`: 3D-Transformer with Convolutional Position Encoding (CPE)    
+`models/tr_msa`: 3D-Transformer with Multi-scale Self-attention (MSA)    
+`models/tr_afps`: 3D-Transformer with Attentive Farthest Point Sampling (AFPS)    
 `models/tr_full`: 3D-Transformer with CPE + MAS + AFPS   
 
 
