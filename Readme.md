@@ -51,7 +51,8 @@ Atom3d: `https://github.com/drorlab/atom3d`
 `models/tr_afps`: 3D-Transformer with Attentive Farthest Point Sampling (AFPS)    
 `models/tr_full`: 3D-Transformer with CPE + MAS + AFPS   
 
-
-%## Contact 
-%If you are interested in our work, please cite.   
-%Any question and collaboration is welcome, please contact [Fang Wu](fw2359@columbia.edu)
+<!---
+## Contact 
+If you are interested in our work, please cite.   
+Any question and collaboration is welcome, please contact [Fang Wu](fw2359@columbia.edu)
+-->
