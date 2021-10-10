@@ -87,7 +87,7 @@ attention heads, the number of encodes, the dimension size, the dropout rate, an
 
 
 
-
+<!---
 # Citation
 If you like our paper and find it helpful, please cite!
 ```
@@ -98,8 +98,6 @@ If you like our paper and find it helpful, please cite!
   year={2021}
 }
 ```
-
-<!---
 ## Contact 
 If you are interested in our work, please cite.   
 Any question and collaboration is welcome, please contact [Fang Wu](fw2359@columbia.edu)
