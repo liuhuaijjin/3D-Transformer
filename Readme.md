@@ -40,12 +40,12 @@ Tutorial of usage: `https://github.com/learningmatter-mit/geom/blob/master/tutor
 
 ## Material Science  
 **COREMOF**  
-Download (Google Drive):  `https://drive.google.com/drive/folders/1DMmjL-JNgUWQDU-52_DT_cX-XWNEEi-W?usp=sharing`   
+Download (Baidu Drive):  `https://pan.baidu.com/s/12N8gM8_TQ1mpBGx6gdkAog`  (password：`l41s`)  
 Reproduction of PointNet++: `python coremof/reproduce/main_pn_coremof.py`  
 Reproduction of MPNN: `python coremof/reproduce/main_mpnn_coremof.py`  
 Repredoction of SchNet: (1) load COREMOF `python coremof/reproduce/main_sch_coremof.py`  
-(2) run SchNet `spk_run.py train schnet custom ../../coremof.db ./coremof --split 900 100 --property LCD --features 16 --batch_size 20 --cuda`  
-(Note: official script of Schnet cannot be reproduced successfully due to the memory limitation.)  
+                        (2) run SchNet `spk_run.py train schnet custom ../../coremof.db ./coremof --split 900 100 --property LCD --features 16 --batch_size 20 --cuda`  
+                        (Note: official script of Schnet cannot be reproduced successfully due to the memory limitation.)  
  
 
 ## Proteomics  
@@ -98,6 +98,7 @@ If you like our paper and find it helpful, please cite!
   year={2021}
 }
 ```
+
 ## Contact 
 If you are interested in our work, please cite.   
 Any question and collaboration is welcome, please contact [Fang Wu](fw2359@columbia.edu)
